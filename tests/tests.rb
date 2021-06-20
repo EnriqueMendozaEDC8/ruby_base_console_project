@@ -2,4 +2,4 @@
 require 'test/unit'
 
 # Import internal files from project
-require_relative  '../index'
+require_relative  '../lib/sum'
